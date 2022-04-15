@@ -2,7 +2,7 @@ const Navbar = () => {
     return ( 
 
         <nav className="logo">
-            <h1>company list</h1>
+            <h1>Trans World Networks</h1>
             <ul>
                 <li><a>home</a></li>
                 <li><a>about</a></li>
